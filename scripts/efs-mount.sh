@@ -1,5 +1,5 @@
-EC2=ec2-xx-xxx-xxx-xx.aws-region.compute.amazonaws.com
-FS_ID=file-system-id.efs.aws-region.amazonaws.com
+EC2=ec2-3-86-33-23.compute-1.amazonaws.com
+FS_ID=fs-07451f8ab8d7152f2.efs.us-east-1.amazonaws.com
 
 
 efs-mount-point=path
