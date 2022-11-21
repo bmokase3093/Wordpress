@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpress' );
+define( 'DB_NAME', 'fundanis_wp16' );
 
 /** Database username */
 define( 'DB_USER', 'wordpress' );
@@ -29,7 +29,7 @@ define( 'DB_USER', 'wordpress' );
 define( 'DB_PASSWORD', 'password' );
 
 /** Database password */
-define( 'DB_PORT', '3306' );
+//define( 'DB_PORT', '3306' );
 /** Database hostname */
 define( 'DB_HOST', 'wordpress.cq8nkfqv6vcv.us-east-1.rds.amazonaws.com' );
 
@@ -96,3 +96,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+
+
+/** Change Media Upload Directory */
+define('UPLOADS', ''.'/var/www/html/WordPress/efs');
