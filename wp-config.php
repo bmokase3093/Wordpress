@@ -40,7 +40,7 @@ define( 'DB_CHARSET', 'utf8' );
 define( 'DB_COLLATE', '' );
 
 /** JWT Authentication for WP REST API. Don't change this!*/
-define('JWT_AUTH_SECRET_KEY', 'uInz6984AzdHWkgzglkKbB6EcqOfhx8CkVmlbFnAvvYP7L6QaMWSUkBiiQBy');
+
 /**#@+
  * Authentication unique keys and salts.
  *
