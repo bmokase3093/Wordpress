@@ -31,7 +31,7 @@ define( 'DB_PASSWORD', 'password' );
 /** Database password */
 //define( 'DB_PORT', '3306' );
 /** Database hostname */
-define( 'DB_HOST', 'wordpress.cq8nkfqv6vcv.us-east-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'wordpress2.cq8nkfqv6vcv.us-east-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
