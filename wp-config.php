@@ -29,7 +29,7 @@ define( 'DB_USER', 'wordpress' );
 define( 'DB_PASSWORD', 'password' );
 
 /** Database password */
-define( 'DB_PORT', '3306' );
+//define( 'DB_PORT', '3306' );
 /** Database hostname */
 define( 'DB_HOST', 'wordpress.cq8nkfqv6vcv.us-east-1.rds.amazonaws.com' );
 
